@@ -1,8 +1,8 @@
 const Projects = [
   {
-    name: "Clone of Agoda.com",
+    name: "Hostel Room Allocation App",
     about:
-      "Agoda is a fastest growing online travel booking platform. It also provides budget hotels, apartments, homes, and villas to suit all budgets and travel occasions.",
+      "Hostel Room Allocation App is an Application developed for logical allocation of hostel rooms based on students characteristics and behaviour. It uses random forest classifier.",
     img: "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
     gitrepo: "https://github.com/",
     blog: "https://medium.com/@vdbhavani.648/agoda-clone-eb28c930815e",
@@ -22,7 +22,7 @@ const Projects = [
     project_type: "Team Project",
   },
   {
-    name: "Clone of specsmakers.in",
+    name: "Generating Images Using Neural Style Transfer",
     about:
       "Specsmakers offers a wide variety of stylish eyewear with high quality of Eyeglasses, Eyeglass Frames, Computer Glasses, Contact Lenses and Sunglasses Online at specsmakers.",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83waNZy94ppQK-oRhV70lco-r4kcA8rZ13Q&usqp=CAU",
@@ -40,7 +40,7 @@ const Projects = [
     project_type: "Team Project",
   },
   {
-    name: "Clone of shop4reebok.com",
+    name: "",
     about:
       "An E-commerce website that sells fashionable, branded clothing & footwear and accessories for women, men & kids online at shop4reebok.",
     img: "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
