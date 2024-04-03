@@ -8,7 +8,7 @@ function SendMSG(e) {
       
   let temp = {
     from_name : nam_txt.value,
-    to_name : "Durga Bhavani",
+    to_name : "Omkar Singh",
     message : body
   }
   
@@ -49,7 +49,3 @@ function SendMSG(e) {
       fail.style.display = "none"
     },1000)
   }
-  
-  // d9edf392-bffd-4fa3-9d98-b2566146073d => token1
-  //template_v4x8ndu
-  // service id = service_f3etz3t
