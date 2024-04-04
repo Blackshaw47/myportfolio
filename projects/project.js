@@ -32,9 +32,9 @@ const Projects = [
       `<img width="50" height="50" src="https://img.icons8.com/bubbles/50/kaggle.png" alt="kaggle"/>`,
       `<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
       `<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>`,
-      `<img src="https://icons8.com/icon/61864/artificial-intelligence" width="48px"/>`,
-      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning" width="48px"/>`,
-      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python" width="48px"/>`,
+      `<img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
+      `<img width="32" height="32" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
+      `<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/send-images.png" alt="send-images"/>`,
     ],
     
   },
@@ -46,10 +46,10 @@ const Projects = [
     
     tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/61864/artificial-intelligence" width="48px"/>`,
-      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning" width="48px"/>`,
+      `<img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
+      `<img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons.png" alt="external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons"/>`,
       `<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
-      `<img src="https://icons8.com/icon/zrpHUHfKXm3A/forecasting" width="48px"/>`,
+      `<img width="32" height="32" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
     ],
     
   },
@@ -79,10 +79,10 @@ const Projects = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIsT527_tXo1tIPWyrkaRGaGZaerJ_ELVprFhQPQX3Q&s",
     tech_stack: "IOT | C | Electronics | Embedded",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/1bVDgc9r21ji/iot" width="48px"/>`,
-      `<img src="https://icons8.com/icon/111021/c" width="48px"/>`,
-      `<img src="https://icons8.com/icon/1581/electronics" width="48px"/>`,
-      `<img src="https://icons8.com/icon/UE1jvmAZ42VT/embedded" width="48px"/>`,
+      `<img width="64" height="64" src="https://img.icons8.com/external-becris-lineal-color-becris/64/external-iot-fintech-becris-lineal-color-becris.png" alt="external-iot-fintech-becris-lineal-color-becris"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/ios/50/c.png" alt="c"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/ios/50/000000/electronics.png" alt="electronics"/>`,
+      `<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-embedded-web-development-flaticons-lineal-color-flat-icons.png" alt="external-embedded-web-development-flaticons-lineal-color-flat-icons"/>`,
     ],
     
   },
