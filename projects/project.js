@@ -3,7 +3,7 @@ const Projects = [
     name: "Hostel Room Allocation App",
     about:
       "Hostel Room Allocation App is an Application developed for logical allocation of hostel rooms based on students characteristics and behaviour. It uses random forest classifier.",
-    img: "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
+    img: "images/3.jpg",
     
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
