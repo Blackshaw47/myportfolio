@@ -6,11 +6,12 @@ const Projects = [
     img: "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
     
     tech_stack:
-      "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle",
+      "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
       `<img src="https://icons8.com/icon/17836/android-os" />`,
       `<img src="https://icons8.com/icon/56039/xml"/>`,
       `<img src="https://icons8.com/icon/13679/java"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
       `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api"/>`,
       `<img src="https://icons8.com/icon/12599/github"/>`,
       `<img src="https://icons8.com/icon/62452/firebase"/>`,
@@ -18,42 +19,39 @@ const Projects = [
       `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>`,
       `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle"/>`,
     ],
-    project_link: "https://agoda-clone-website.vercel.app/",
-    project_type: "Team Project",
+   
   },
   {
     name: "Generating Images Using Neural Style Transfer",
     about:
-      "Specsmakers offers a wide variety of stylish eyewear with high quality of Eyeglasses, Eyeglass Frames, Computer Glasses, Contact Lenses and Sunglasses Online at specsmakers.",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83waNZy94ppQK-oRhV70lco-r4kcA8rZ13Q&usqp=CAU",
-    gitrepo: "https://github.com/https://github.com/",
-    blog: "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
-    tech_stack: "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
+      "A Project which creates a new creative image using a base image and a style image. It has been trained on the Deep Learning model, VGGNET which is based on the Imagenet dataset",
+    img: "https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/613ebc713d78bd6d64e763b8_IJBbdBDp67rtR1bfd0GVlcu5kQIIOX5ExT3I8w7f7UGV90_-SwP-lOfF61k6Npq_4SqPiXnQnVgRXwFmNe8c0OctDfb0p_ScrJGWNkgu7S1UKZmk_BsYb-_C11OGXciC8IjqMfO2%3Ds0.png",
+   
+    tech_stack: "Jupyter | Kaggle | VGGNet | Neural Network | Deep Learning  | Python",
     tech_stackicons: [
-      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-      `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
-      `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
+      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>`,
+      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle"/>`,
+      `<img src="https://icons8.com/icon/103110/mind-map"/>`,
+      `<img src="https://icons8.com/icon/61864/artificial-intelligence"/>`,
+      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
     ],
-    project_link: "https://tender-hoover-a53af4.netlify.app/",
-    project_type: "Team Project",
+    
   },
   {
-    name: "",
+    name: "Urban Traffic State Prediction Based on LSTM",
     about:
-      "An E-commerce website that sells fashionable, branded clothing & footwear and accessories for women, men & kids online at shop4reebok.",
-    img: "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
-    gitrepo: "https://github.com/",
-    blog: "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
-    tech_stack: "HTML | CSS | JAVASCRIPT",
+      " It predicts the Urban traffic using Long Short-Term Memory. It uses historical data based on the weather, holidays and other traffic affecting measures.",
+    img: "",
+    
+    tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
-      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+      `<img src="https://icons8.com/icon/61864/artificial-intelligence"/>`,
+      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
+      `<img src="https://icons8.com/icon/zrpHUHfKXm3A/forecasting"/>`,
     ],
-    project_link: "https://rebookwebsite-clone1.vercel.app/",
-    project_type: "Team Project",
+    
   },
   {
     name: "HealthCare App",
@@ -64,32 +62,27 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase ",
     tech_stackicons: [
-      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
-      `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os" />`,
+      `<img src="https://icons8.com/icon/56039/xml"/>`,
+      `<img src="https://icons8.com/icon/13679/java"/>`,
+      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api"/>`,
+      `<img src="https://icons8.com/icon/12599/github"/>`,
+      `<img src="https://icons8.com/icon/62452/firebase"/>`,
+      
     ],
-    project_link: "https://ecommerce-react-project.vercel.app/",
-    project_type: "Individual Project",
+    
   },
   {
-    name: "Weather-Map Web Application",
+    name: "Home Automation System",
     about:
-      "A Weather search web application, where user will get location based weather report. Here user will get all info related to a particular city with daily report as well as weekly forecast.",
-    img: "./weather.png",
-    gitrepo: "https://github.com/",
-    blog: "",
-    tech_stack: "HTML | CSS | JAVASCRIPT | API's",
+      "A Home Automation System has been designed using Node MCU and Blynk app.for second year minor project.",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIsT527_tXo1tIPWyrkaRGaGZaerJ_ELVprFhQPQX3Q&s",
+    tech_stack: "IOT | C | Electronics | Embedded",
     tech_stackicons: [
-      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-      `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
+      `<img src="https://icons8.com/icon/1bVDgc9r21ji/iot" />`,
+      `<img src="https://icons8.com/icon/111021/c"/>`,
+      `<img src="https://icons8.com/icon/1581/electronics"/>`,
+      `<img src="https://icons8.com/icon/UE1jvmAZ42VT/embedded"/>`,
     ],
     project_link: "https://weatherapp-ten-kappa.vercel.app/",
     project_type: "Individual Project",
