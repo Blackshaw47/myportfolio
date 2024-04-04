@@ -8,7 +8,7 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/17836/android-os" height="48px" width="48px"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os.png" height="48px" width="48px"/>`,
       `<img src="https://icons8.com/icon/56039/xml" height="48px" width="48px"/>`,
       `<img src="https://icons8.com/icon/13679/java" height="48px"  width="48px"/>`,
       `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python.png" width="48px"/>`,
@@ -42,7 +42,7 @@ const Projects = [
     name: "Urban Traffic State Prediction Based on LSTM",
     about:
       " It predicts the Urban traffic using Long Short-Term Memory. It uses historical data based on the weather, holidays and other traffic affecting measures.",
-    img: "images/2.png",
+    img: "images/3.jpg",
     
     tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
