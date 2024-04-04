@@ -4,19 +4,19 @@ const Projects = [
     about:
       "Hostel Room Allocation App is an Application developed for logical allocation of hostel rooms based on students characteristics and behaviour. It uses random forest classifier.",
     img: "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
-    gitrepo: "https://github.com/",
-    blog: "https://medium.com/@vdbhavani.648/agoda-clone-eb28c930815e",
+    
     tech_stack:
-      "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
+      "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle",
     tech_stackicons: [
-      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-      `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
-      `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-      `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os" />`,
+      `<img src="https://icons8.com/icon/56039/xml"/>`,
+      `<img src="https://icons8.com/icon/13679/java"/>`,
+      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api"/>`,
+      `<img src="https://icons8.com/icon/12599/github"/>`,
+      `<img src="https://icons8.com/icon/62452/firebase"/>`,
+      `<img src="https://icons8.com/icon/vinpBD5oA3b4/pycharm"/>`,
+      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>`,
+      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle"/>`,
     ],
     project_link: "https://agoda-clone-website.vercel.app/",
     project_type: "Team Project",
@@ -56,14 +56,13 @@ const Projects = [
     project_type: "Team Project",
   },
   {
-    name: "Clone of MyShopping.com",
+    name: "HealthCare App",
     about:
-      "An E-commerce website that sells fashionable, branded clothing for women, men & kids online at MyShopping.com.",
-    img: "./homepage-shopping.png",
-    gitrepo: "https://github.com/",
-    blog: "",
+      "An HealthCare Application made for helping elderly people with their health issues. Made using XML and Java. It consists of various aspects like emergency help, home checkup, hospitals nearby, online consultation, etc.",
+    img: "images/2.png",
+    gitrepo: "https://github.com/omkar111196/Healthcare-App",
     tech_stack:
-      "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs | Bootstrap",
+      "Android | XML | Java | Postman | Github | Firebase ",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
