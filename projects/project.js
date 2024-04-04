@@ -8,16 +8,16 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>`,
-      `<img width="64" height="64" src="https://img.icons8.com/nolan/64/xml.png" alt="xml"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
-      `<img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/nolan/64/xml.png" alt="xml"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>`,
       `<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/doodle/48/pycharm.png" alt="pycharm"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/doodle/48/pycharm.png" alt="pycharm"/>`,
       `<img width="50" height="50" src="https://img.icons8.com/bubbles/50/kaggle.png" alt="kaggle"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>`,
     ],
    
   },
@@ -30,11 +30,11 @@ const Projects = [
     tech_stack: "Jupyter | Kaggle | VGGNet | Neural Network | Deep Learning  | Python",
     tech_stackicons: [
       `<img width="50" height="50" src="https://img.icons8.com/bubbles/50/kaggle.png" alt="kaggle"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
-      `<img width="32" height="32" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
-      `<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/send-images.png" alt="send-images"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/material-outlined/24/send-images.png" alt="send-images"/>`,
     ],
     
   },
@@ -42,14 +42,14 @@ const Projects = [
     name: "Urban Traffic State Prediction Based on LSTM",
     about:
       " It predicts the Urban traffic using Long Short-Term Memory. It uses historical data based on the weather, holidays and other traffic affecting measures.",
-    img: "images/4.png",
+    img: "https://dq8l4o3au0fto.cloudfront.net/images/news/ImageForNews_1963_17012196698703140.png",
     
     tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
-      `<img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons.png" alt="external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons"/>`,
-      `<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
-      `<img width="32" height="32" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons.png" alt="external-forecasting-data-science-and-cyber-security-flatart-icons-flat-flatarticons"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>`,
+      `<img width="50" height="50" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-Deep-Learning-artificial-intelligence-solidglyph-m-oki-orlando"/>`,
     ],
     
   },
