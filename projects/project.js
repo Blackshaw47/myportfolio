@@ -8,7 +8,7 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/17836/android-os.png" height="48px" width="48px"/>`,
+      `<img src="https://png.pngtree.com/element_our/20190531/ourmid/pngtree-android-icon-image_1288986.jpg" height="48px" width="48px"/>`,
       `<img src="https://icons8.com/icon/56039/xml" height="48px" width="48px"/>`,
       `<img src="https://icons8.com/icon/13679/java" height="48px"  width="48px"/>`,
       `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python.png" width="48px"/>`,
