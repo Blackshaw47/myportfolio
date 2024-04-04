@@ -42,7 +42,7 @@ const Projects = [
     name: "Urban Traffic State Prediction Based on LSTM",
     about:
       " It predicts the Urban traffic using Long Short-Term Memory. It uses historical data based on the weather, holidays and other traffic affecting measures.",
-    img: "images/4.png",
+    img: "images/3.png",
     
     tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
