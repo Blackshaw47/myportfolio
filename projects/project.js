@@ -8,11 +8,11 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/17836/android-os" width="48px"/>`,
-      `<img src="https://icons8.com/icon/56039/xml" width="48px"/>`,
-      `<img src="https://icons8.com/icon/13679/java" width="48px"/>`,
-      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python" width="48px"/>`,
-      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api" width="48px"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os" height="48px" width="48px"/>`,
+      `<img src="https://icons8.com/icon/56039/xml" height="48px" width="48px"/>`,
+      `<img src="https://icons8.com/icon/13679/java" height="48px"  width="48px"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python.png" width="48px"/>`,
+      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api.png" width="48px"/>`,
       `<img src="https://icons8.com/icon/12599/github" width="48px"/>`,
       `<img src="https://icons8.com/icon/62452/firebase" width="48px"/>`,
       `<img src="https://icons8.com/icon/vinpBD5oA3b4/pycharm" width="48px"/>`,
