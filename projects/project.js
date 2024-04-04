@@ -8,16 +8,16 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase | PyCharm | Jupyter | Kaggle | Python",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/17836/android-os" />`,
-      `<img src="https://icons8.com/icon/56039/xml"/>`,
-      `<img src="https://icons8.com/icon/13679/java"/>`,
-      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
-      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api"/>`,
-      `<img src="https://icons8.com/icon/12599/github"/>`,
-      `<img src="https://icons8.com/icon/62452/firebase"/>`,
-      `<img src="https://icons8.com/icon/vinpBD5oA3b4/pycharm"/>`,
-      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>`,
-      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os" width="48px"/>`,
+      `<img src="https://icons8.com/icon/56039/xml" width="48px"/>`,
+      `<img src="https://icons8.com/icon/13679/java" width="48px"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python" width="48px"/>`,
+      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api" width="48px"/>`,
+      `<img src="https://icons8.com/icon/12599/github" width="48px"/>`,
+      `<img src="https://icons8.com/icon/62452/firebase" width="48px"/>`,
+      `<img src="https://icons8.com/icon/vinpBD5oA3b4/pycharm" width="48px"/>`,
+      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" width="48px"/>`,
+      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle" width="48px"/>`,
     ],
    
   },
@@ -29,12 +29,12 @@ const Projects = [
    
     tech_stack: "Jupyter | Kaggle | VGGNet | Neural Network | Deep Learning  | Python",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"/>`,
-      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle"/>`,
-      `<img src="https://icons8.com/icon/103110/mind-map"/>`,
-      `<img src="https://icons8.com/icon/61864/artificial-intelligence"/>`,
-      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning"/>`,
-      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
+      `<img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" width="48px"/>`,
+      `<img src="https://icons8.com/icon/bMncK0wGFANA/kaggle" width="48px"/>`,
+      `<img src="https://icons8.com/icon/103110/mind-map" width="48px"/>`,
+      `<img src="https://icons8.com/icon/61864/artificial-intelligence" width="48px"/>`,
+      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning" width="48px"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python" width="48px"/>`,
     ],
     
   },
@@ -46,10 +46,10 @@ const Projects = [
     
     tech_stack: "Recurrent Neural Network | Forecasting | Python | Deep Learning",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/61864/artificial-intelligence"/>`,
-      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning"/>`,
-      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python"/>`,
-      `<img src="https://icons8.com/icon/zrpHUHfKXm3A/forecasting"/>`,
+      `<img src="https://icons8.com/icon/61864/artificial-intelligence" width="48px"/>`,
+      `<img src="https://icons8.com/icon/u5cBN2YgFqn5/deep-learning" width="48px"/>`,
+      `<img src="https://icons8.com/icon/pIJdjOoL6KfU/python" width="48px"/>`,
+      `<img src="https://icons8.com/icon/zrpHUHfKXm3A/forecasting" width="48px"/>`,
     ],
     
   },
@@ -62,12 +62,12 @@ const Projects = [
     tech_stack:
       "Android | XML | Java | Postman | Github | Firebase ",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/17836/android-os" />`,
-      `<img src="https://icons8.com/icon/56039/xml"/>`,
-      `<img src="https://icons8.com/icon/13679/java"/>`,
-      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api"/>`,
-      `<img src="https://icons8.com/icon/12599/github"/>`,
-      `<img src="https://icons8.com/icon/62452/firebase"/>`,
+      `<img src="https://icons8.com/icon/17836/android-os" width="48px"/>`,
+      `<img src="https://icons8.com/icon/56039/xml" width="48px"/>`,
+      `<img src="https://icons8.com/icon/13679/java" width="48px"/>`,
+      `<img src="https://icons8.com/icon/QEQQKirln6Tf/postman-api" width="48px"/>`,
+      `<img src="https://icons8.com/icon/12599/github" width="48px"/>`,
+      `<img src="https://icons8.com/icon/62452/firebase" width="48px"/>`,
       
     ],
     
@@ -79,13 +79,12 @@ const Projects = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIsT527_tXo1tIPWyrkaRGaGZaerJ_ELVprFhQPQX3Q&s",
     tech_stack: "IOT | C | Electronics | Embedded",
     tech_stackicons: [
-      `<img src="https://icons8.com/icon/1bVDgc9r21ji/iot" />`,
-      `<img src="https://icons8.com/icon/111021/c"/>`,
-      `<img src="https://icons8.com/icon/1581/electronics"/>`,
-      `<img src="https://icons8.com/icon/UE1jvmAZ42VT/embedded"/>`,
+      `<img src="https://icons8.com/icon/1bVDgc9r21ji/iot" width="48px"/>`,
+      `<img src="https://icons8.com/icon/111021/c" width="48px"/>`,
+      `<img src="https://icons8.com/icon/1581/electronics" width="48px"/>`,
+      `<img src="https://icons8.com/icon/UE1jvmAZ42VT/embedded" width="48px"/>`,
     ],
-    project_link: "https://weatherapp-ten-kappa.vercel.app/",
-    project_type: "Individual Project",
+    
   },
 ];
 
